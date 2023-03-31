@@ -1,0 +1,26 @@
+@import "banner.css";
+@import "button.css";
+@import "cards.css";
+
+body {
+    margin: 0;
+    background-color: black;
+}
+a {
+    padding: 16px;
+    background-color: black;
+    color: rgb(5, 1, 1);
+    text-decoration: none;
+}
+.btn-ysl{
+    border-radius: 25px;
+}
+.btn-tf1{
+    color: white;
+    background-color: orange;
+    border-radius: 40%;
+    width: 150px;
+    text-align: center;
+    display: block;
+    margin: 16px auto;
+}

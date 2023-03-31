@@ -1,0 +1,16 @@
+.banner {
+    background-image: url("../images/YSL.png");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner a {
+    color: white;
+}
